@@ -1,0 +1,19 @@
+Create the following programs:
+
+TA_1. A program that will display the number of vowels, consonants, spaces, and other characters given an input string. (use for loop and some operators under module 1 and 2)
+
+TA_2. A program that will count the sum of the digits from a given input string digits. (use for loop and some operators under module 1 and 2)
+
+TA_3. A program that will display the following given output. (for a. use nested for statement and for b. use nested while statement)
+
+TA_3a.     1
+          12
+         123
+        1234
+       12345
+
+TA_3b.  1
+        333
+        55555
+        666666
+        7777777
