@@ -10,7 +10,7 @@ THEME_COLOR = "#a0c878"        #main green color
 THEME_COLOR_HOVER = "#89ac46"  # darkk green for hover/click
 BG_COLOR = "#ecf0f1"
 TEXT_COLOR = "#2c3e50"
-BG_IMAGE = "C:\\Users\\drack\\Documents\\vscode\\it0011_francisco\\finals\\image.png"
+BG_IMAGE = "C:\\Users\\drack\\Documents\\vscode\\it0011_francisco\\PyPurr-Final\\image.png"
 
 # Font settings
 CUSTOM_FONT_NAME = "Simply Rounded"
